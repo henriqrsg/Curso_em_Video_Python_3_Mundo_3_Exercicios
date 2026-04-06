@@ -10,7 +10,7 @@ def interface(msg):
     os.system('cls')
     print(tamanho * '=')
     print(f'{msg:^{tamanho}}')
-    print(tamanho * '=')
+    print(tamanho * '=') 
 
 def principal():
     numeros = []
